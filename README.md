@@ -1,6 +1,6 @@
 <!-- 开头可以放一个有趣的 Banner 或 GIF 动图 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/handsomezhuzhu/handsomezhuzhu/main/github_header_image1.gif" alt="Header Banner" width="800"/>
+  <img src="https://raw.githubusercontent.com/handsomezhuzhu/handsomezhuzhu/main/github_header_image1.gif" alt="Header Banner" width="200"/>
   <!-- 提示：如果你还没有上传这张图片，它会显示为一个损坏的图标。请在你的仓库里创建一个 assets 文件夹并上传图片。-->
 </p>
 
@@ -59,6 +59,8 @@
 ### 🔗 联系方式
 <p align="left">
   <a href="mailto:2658601135@qq.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <!-- ↓↓↓ 把代码片段粘贴在这里 ↓↓↓ -->
+  <a href="https://handsomezhuzhu.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/博客-4285F4?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
 </p>
 
 <br>
