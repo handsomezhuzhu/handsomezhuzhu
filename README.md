@@ -1,6 +1,6 @@
 <!-- 开头可以放一个有趣的 Banner 或 GIF 动图 -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/handsomezhuzhu/handsomezhuzhu/main/github_header_image1.gif" alt="Header Banner"/>
+  <img src="https://raw.githubusercontent.com/handsomezhuzhu/handsomezhuzhu/main/github_header_image1.gif" alt="Header Banner" width="800"/>
   <!-- 提示：如果你还没有上传这张图片，它会显示为一个损坏的图标。请在你的仓库里创建一个 assets 文件夹并上传图片。-->
 </p>
 
@@ -63,12 +63,3 @@
 
 <br>
 
-<!-- 访客计数器 -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=handsomezhuzhu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/handsomezhuzhu/handsomezhuzhu/main/github_header_image.jpg" alt="Header Banner" width="800"/>
-  <!-- 提示：如果你还没有上传这张图片，它会显示为一个损坏的图标。请在你的仓库里创建一个 assets 文件夹并上传图片。-->
-</p>
