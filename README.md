@@ -60,7 +60,7 @@
 <p align="left">
   <a href="mailto:2658601135@qq.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <!-- ↓↓↓ 把代码片段粘贴在这里 ↓↓↓ -->
-  <a href="https://handsomezhuzhu.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/博客-4285F4?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
+  <a href="https://z-z-h.xyz/" target="blank"><img align="center" src="https://img.shields.io/badge/博客-4285F4?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/></a>
 </p>
 
 <br>
