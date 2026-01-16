@@ -39,11 +39,20 @@
 
 ### 📊 GitHub 统计
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=handsomezhuzhu&locale=cn&line_height=33&show_icons=true&theme=tokyonight&rank_icon=default"/>
+  <img
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=handsomezhuzhu&locale=cn&line_height=33&show_icons=true&theme=tokyonight&rank_icon=default&cache_seconds=86400"
+  />
 </p>
 <p align="center">
-  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=handsomezhuzhu&locale=cn&line_height=33&theme=tokyonight&langs_count=5&layout=compact"/>
+  <img
+    align="center"
+    alt="Top Langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=handsomezhuzhu&locale=cn&line_height=33&theme=tokyonight&langs_count=5&layout=compact&cache_seconds=86400"
+  />
 </p>
+
 
 ---
 
