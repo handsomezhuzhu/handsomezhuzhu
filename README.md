@@ -72,6 +72,13 @@
   <a href="https://www.zhuzihan.com" target="blank"><img align="center" src="https://img.shields.io/badge/zhuzihan.com-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="zhuzihan.com"/></a>
   <a href="https://www.9q.hk" target="blank"><img align="center" src="https://img.shields.io/badge/9q.hk-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white" alt="9q.hk"/></a>
   <a href="https://www.zzh6.com" target="blank"><img align="center" src="https://img.shields.io/badge/zzh6.com-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="zzh6.com"/></a>
+</p>
+
+---
+
+### 📮 联系我
+
+<p align="left">
   <a href="mailto:2658601135@qq.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
