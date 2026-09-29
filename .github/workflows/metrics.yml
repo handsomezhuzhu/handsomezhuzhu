@@ -35,5 +35,3 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_stars: yes
           plugin_stars_limit: 4
-          # 临时开启 debug 用于诊断 languages 空白问题
-          debug: yes
