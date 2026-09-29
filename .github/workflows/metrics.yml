@@ -18,6 +18,8 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: handsomezhuzhu
+          # 仓库较多，一次查 100 个会导致 GraphQL 超时（且上游重试有 bug），分批小查询
+          repositories_batch: 25
           template: classic
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
